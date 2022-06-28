@@ -5,7 +5,7 @@ import (
 	"time"
 
 	"github.com/google/go-cmp/cmp"
-	"github.com/mdlayher/netconsole"
+	"github.com/joshartman/netconsole"
 )
 
 func TestParseLog(t *testing.T) {
